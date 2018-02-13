@@ -1,2 +1,1 @@
-# hello-world
-my first project in GitHub
+Hi Humans, We are computer freaks.
